@@ -55,4 +55,4 @@ dequeue() {
 
 }
 
-export default Queue;
+module.exports = Queue;

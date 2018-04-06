@@ -37,4 +37,4 @@ pop() {
 
 }
 
-export default Stack;
+module.exports = Stack;
